@@ -1,9 +1,10 @@
 ---js
 const eleventyNavigation = {
-	key: "About",
+	key: "Tietoja",
 	order: 3
 };
 ---
-# About
+# Tietoja #
 
-I am a person that writes stuff.
+Kas tässä Teuvo, lisätietoja: [teuvovaisanen.fi](https://teuvovaisanen.fi)
+
