@@ -6,9 +6,13 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
+
+<h1>Tervetuloa Teuvon kotisivuille</h1>
+
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Viimeisimmät {{ latestPostsCount }} artikkelit{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h2>Viimeisimmät {{ latestPostsCount }} artikkelit{% if latestPostsCount != 1 %}s{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
