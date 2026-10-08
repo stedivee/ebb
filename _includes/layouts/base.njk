@@ -8,7 +8,7 @@
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 
 		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
-		{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
+		<meta name="generator" content="{{ eleventy.generator }}">
 
 		{#-
 		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
@@ -40,14 +40,14 @@
 		<script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
 	</head>
 	<body>
-		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
+		<a href="#main" id="skip-link" class="visually-hidden">Siirry suoraan sisältöön</a>
 
 		<header>
 			<a href="/" class="home-link">{{ metadata.title }}</a>
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
 			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
+				<h2 class="visually-hidden">Päävalikko</h2>
 				<ul class="nav">
 				{%- for entry in collections.all | eleventyNavigation %}
 					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
@@ -64,11 +64,11 @@
 
 		<footer>
 			<p>
-				<em>Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em>
+				<em>Sivusto rakennettu rakkauvella ja <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em>
 			</p>
 		</footer>
 
-		<!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
+		<!-- Tämä sivu on `{{ page.url }}` julkaistiin {% currentBuildDate %} -->
 		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
 	</body>
 </html>
