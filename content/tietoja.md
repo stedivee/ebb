@@ -1,15 +1,14 @@
 ---
 title: Tietoja
-description: ""
+description: "Tietoja tästä sivustosta"
 date: 2026-10-08T09:41:47.932Z
 preview: ""
 draft: false
-permalink: /tietoja/
 tags: []
 categories: []
 eleventyNavigation: 
-    - order: 4
-    - key: Tietoja
+    key: Tietoja
+    order: 4
 ---
 # Mitä täällä tapahtuu #
 xx yy zz 
