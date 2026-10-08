@@ -26,10 +26,10 @@ https://nicolas-hoizey.com/feeds/all.xml
       <body class="bg-white">
         <nav class="container-md px-3 py-2 mt-2 mt-md-5 mb-5 markdown-body">
           <p class="bg-yellow-light ml-n1 px-1 py-1 mb-1">
-            <strong>This is a web feed,</strong> also known as an RSS or Atom feed. <strong>Subscribe</strong> by copying the URL from the address bar into your newsreader.
+            <strong>Tämä on "web feed",</strong> suomenkielelllä paremmin tunnettu nimillä RSS- tai Atom-syöte. <strong>Seuraa sivuston artikkeleita etänä</strong> kopioimalla tämän sivun osoitteen (URL) uutislukijaan. Uutislukija voi olla selainlaajennus, erillinen ohjelma tai verkkopalvelu.
           </p>
           <p class="text-gray">
-            Visit <a href="https://aboutfeeds.com">About Feeds</a> to get started with newsreaders and subscribing. It’s free.
+            Tutustu <a href="https://aboutfeeds.com">About Feeds</a> -sivustolla lisätietoihin RSS:stä ja lukijaohjelmista. Maksutonta, vakaata internetin perustekniikkaa on tämä ;).
           </p>
         </nav>
         <div class="container-md px-3 py-3 markdown-body">
@@ -53,19 +53,19 @@ https://nicolas-hoizey.com/feeds/all.xml
                 <path d="M184 213A140 140 0 0 0 44 73 V 38a175 175 0 0 1 175 175z" fill="#FFF"/>
               </svg>
 
-              Web Feed Preview
+              RSS-syötteen esikatselu
             </h1>
             <h2><xsl:value-of select="atom:feed/atom:title"/></h2>
             <p><xsl:value-of select="atom:feed/atom:description"/></p>
-            <p>This preview only shows titles, but the actual feed contains the full content.</p>
+            <p>Tämä esikatselunäkymä sisältää vain artikkelien otsikot, mutta syöte sisältää koko sisällön.</p>
             <a class="head_link">
               <xsl:attribute name="href">
                 <xsl:value-of select="/atom:feed/atom:link[not(@rel)]/@href"/>
               </xsl:attribute>
-              Visit Website &#x2192;
+              Vieraile sivustolla &#x2192;
             </a>
           </header>
-          <h2>Recent Items</h2>
+          <h2>Viimeisimmät artikkelit</h2>
           <xsl:apply-templates select="atom:feed/atom:entry" />
         </div>
       </body>
@@ -82,7 +82,7 @@ https://nicolas-hoizey.com/feeds/all.xml
         </a>
       </h3>
       <small class="text-gray">
-        Published: <xsl:value-of select="atom:updated" />
+        Julkaistu: <xsl:value-of select="atom:updated" />
       </small>
     </div>
   </xsl:template>
