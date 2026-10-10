@@ -8,12 +8,12 @@ const numberOfLatestPostsToShow = 3;
 ---
 
 <h1>Tervetuloa Teuvon kotisivuille</h1>
-<p>Tämä on harjoittelua WordPress-siirtymästä Eleventyyn</p>
+<p>Tämä on harjoittelua WordPress-siirtymästä Eleventyyn. Vaikuttaa siltä, että tämä virallinen base blog on ihan riittävä 1.0 versioon WordPressistä pois siirtymästä. Tähän vain omia CSS-säätöjä näin aluksi.</p>
 
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h2>Viimeisimmät {{ latestPostsCount }} artikkelit{% if latestPostsCount != 1 %}s{% endif %}</h2>
+<h2>Viimeisimmät {{ latestPostsCount }} artikkelia{% if latestPostsCount != 1 %}{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -21,7 +21,7 @@ const numberOfLatestPostsToShow = 3;
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>{{ morePosts }} lisää artikkeleita{% if morePosts != 1 %}s{% endif %} löytyy <a href="blog.njk">arkistosta</a>.</p>
+<p>{{ morePosts }} artikkelia{% if morePosts != 1 %}{% endif %} lisää löytyy <a href="blog.njk">blogiarkistosta</a>.</p>
 {% endif %}
 
 {# List every content page in the project #}
