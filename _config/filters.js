@@ -10,7 +10,7 @@ export default function(eleventyConfig) {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
 		return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat('D');
 	});
-
+		// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon (dd.MM.yyyy)
 	eleventyConfig.addFilter("suomiPvm", (dateObj) => {
 		return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat('dd.MM.yyyy');
 	});
