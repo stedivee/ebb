@@ -13,7 +13,7 @@ eleventyNavigation:
 # Tietoja #
 Hei, olen Teuvo Väisänen. <img src="https://stedis.cloud/img/Teuvo-raameissa.jpg" alt="Teuvo raameissa" title="Teuvo taulun raameissa">
 
-Tämä sivusto tulee olemaan jatkumoa blogille, joka on ollut WordPressillä rakennettuna aina vuodesta 2004 lähtien. Sivusto on rakennettu Eleventyllä [¹] käyttäen Eleventyn "virallista" base blog aloitusteemaa [²]. Webbipalvelin tarjoilee siis vain puhtaita HTML-sivuja ilman taustalla pyörivää tietokantaa jne. Kevyttä ja nopsaa.
+Tämä sivusto tulee olemaan jatkumoa blogilleni, joka on ollut WordPressillä rakennettuna aina vuodesta 2004 lähtien. Tämä sivusto on sen sijaan rakennettu Eleventyllä [¹] käyttäen Eleventyn "virallista" base blog aloitusteemaa [²]. Webbipalvelin tarjoilee siis vain puhtaita HTML-sivuja ilman taustalla pyörivää tietokantaa jne. Kevyttä ja nopsaa.
 
 Sivusto on hostattuna statichost.eu [³] -palvelussa, jonne se julkaistaan ohjelmallisesti Githubista.
 

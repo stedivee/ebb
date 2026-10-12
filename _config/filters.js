@@ -15,7 +15,7 @@ export default function(eleventyConfig) {
 		return DateTime.fromJSDate(dateObj, { zone: "utc", }).toFormat('dd.MM.yyyy');
 	});
 
-		// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon pitkä
+		// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon jossa viikonpäivä mukana (cccc dd.MM.yyyy)
 	eleventyConfig.addFilter("suomiPitka", (dateObj) => {
 		return DateTime.fromJSDate(dateObj, { locale: "fi" }).toFormat('cccc dd.MM.yyyy');
 	});
