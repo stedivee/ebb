@@ -11,6 +11,10 @@ export default function(eleventyConfig) {
 		return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat('D');
 	});
 
+	eleventyConfig.addFilter("suomiPvm", (dateObj) => {
+		return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat('dd.MM.yyyy');
+	});
+
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("head", (array, n) => {
 		if(!Array.isArray(array) || array.length === 0) {
