@@ -8,11 +8,16 @@ export default function(eleventyConfig) {
 
 	eleventyConfig.addFilter("htmlDateString", (dateObj) => {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-		return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat('D');
+		return DateTime.fromJSDate(dateObj, { locale: "fi" }).toFormat('D');
 	});
 		// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon (dd.MM.yyyy)
 	eleventyConfig.addFilter("suomiPvm", (dateObj) => {
-		return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat('dd.MM.yyyy');
+		return DateTime.fromJSDate(dateObj, { zone: "utc", }).toFormat('dd.MM.yyyy');
+	});
+
+		// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon pitkä
+	eleventyConfig.addFilter("suomiPitka", (dateObj) => {
+		return DateTime.fromJSDate(dateObj, { dateTimeZone: "Europe/Helsinki" }).toFormat('cccc dd.MM.yyyy');
 	});
 
 	// Get the first `n` elements of a collection.
