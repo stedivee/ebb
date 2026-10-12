@@ -17,7 +17,7 @@ export default function(eleventyConfig) {
 
 		// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon pitkä
 	eleventyConfig.addFilter("suomiPitka", (dateObj) => {
-		return DateTime.fromJSDate(dateObj, { dateTimeZone: "Europe/Helsinki" }).toFormat('cccc dd.MM.yyyy');
+		return DateTime.fromJSDate(dateObj, { locale: "fi" }).toFormat('cccc dd.MM.yyyy');
 	});
 
 	// Get the first `n` elements of a collection.

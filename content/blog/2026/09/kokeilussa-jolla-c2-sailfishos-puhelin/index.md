@@ -27,4 +27,3 @@ Samaan aikaan sattumalta osui toinenkin kännykkäkokeilu, [kun asentelin vanhaa
 
 Saas nähdä kuinka sekaisin sitä menee ;)
 
-###### Fediversumi -reaktiot

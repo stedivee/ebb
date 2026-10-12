@@ -28,4 +28,3 @@ Näin muutaman tunnin leikkimisen jälkeen ei ole paljon kerrottavaa, ehkä huom
 
 Tutkittavaa tulee tulevalla viikolla lisää, sillä postissa on tulossa [Jolla C2-puhelin](https://teuvovaisanen.fi/2026/09/08/kokeilussa-jolla-c2-sailfishos-puhelin/).
 
-###### Fediversumi -reaktiot
