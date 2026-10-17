@@ -62,5 +62,18 @@
       "path": "[[workspace]]/public"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.content.snippets": {
+    "box container": {
+      "description": "box containen flex",
+      "body": [
+        "<div class=\"box-container\">",
+        "  <div>Item 1</div>",
+        "  <div>Item 2</div>",
+        "  <div>Item 3</div>",
+        "</div>"
+      ],
+      "fields": []
+    }
+  }
 }
