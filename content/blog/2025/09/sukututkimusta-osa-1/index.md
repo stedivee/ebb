@@ -29,4 +29,3 @@ Isäni Kalervo toisessa rivissä opettajasta vasempaan toinen poika, raidallinen
 Ennen lyseon aikaa oli isäni asunut jonkin aikaa Kuopiossa, jossa äidillään oli ompelimo Tulliportinkadulla aivan Kuopion keskustassa. Hän on siis koulun alkutaipaleen käynyt varmaankin Kuopiossa. Laitoin taas kokeeksi sähköpostia erään kuopiolaisen peruskoulun rehtorille ja kyselin vanhoja oppilastietoja. Niitä ei säilytetä koulussa ja hän ohjasi Kuopion kouluviraston puoleen. Sinne siis taas sähköpostikysely. Jokin aika sitten kouluvirastosta soitti ystävällinen naishenkilö, jonka kanssa sovittiin, että hän tilaa Joensuusta Kansallisarkistosta kouludokumentit, joita voisin sitten tulla Kuopioon tutkimaan.  
 Tästä uutta yhteydenottoa nyt odottelen ja kohta matka suuntautuu syksyiseen Kuopioon.
 
-###### Fediverse -reaktiot

@@ -14,4 +14,3 @@ ChromeOS -surffikoneet menivät myyntiin ja vanhasta Windows-läppäristä tuli 
 
 Se mitä Linux toi mukanaan on valtava ohjelmistovalikoima. ChromeOS oli tässä suhteessa riisuttu versio Android-sovelluksineen. Kun chromeOS -koneen lisäksi aina välillä tarvitsin WIndows-konetta, niin nyt pärjään kaikessa pelkällä Linuxilla (poislukien musakone). Se on kiva.
 
-###### Fediverse -reaktiot

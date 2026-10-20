@@ -14,4 +14,3 @@ Hankalaksi sen poisto osoittautui, kun paljon on yhteydenpito vuosien saatossa s
 
 Lähestyin ennen poistoa sähköpostilla osaa kontakteistani sekä noita ryhmiä ja kerroin vaihtoehdoista kuten sähköpostista, tekstiviestista ja Signalista. Aika hiljaista oli. Yksi tuttavani kommentoi Signalia huumekuriirikanavaksi. Hiljeni, kun kerroin perheeni käyttäneen Signalia jo parisen vuotta pääasiallisena yhteydenpitovälineenä.
 
-###### Fediverse -reaktiot

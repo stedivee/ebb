@@ -39,4 +39,3 @@ Ergonomia pienessä soutuveneessä on kehno, jos joutuu kököttämään peräpe
 
 Hiljaista menoa. Ehkä uistelen tuon kanssa.
 
-###### Fediverse -reaktiot

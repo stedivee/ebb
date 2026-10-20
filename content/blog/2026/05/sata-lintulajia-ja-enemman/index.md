@@ -22,6 +22,3 @@ Jonkinlaista varusteurheilua se on tämäkin harrastus. Toki yksinkertaisimmilla
 
 Silti tämän vuoden tähän mennessä mukavin lintuhetki oli ilman optiikkaa. Sain taas nauttia kehrääjistä lempikalliollani itäisessä Helsingissä. Istuin alkuyöstä hiljaa paikoillani ja kehrääjä lenteli useasti aivan vierestä ikään kuin tutustumassa. Välillä kirkaisi kutsuäänensä. Vähän myös toki lauleli surinaansa ja surinan lopussa hauskat pulputukset, kun laulumoottori sammuu. Nämä koetut hetket ovat myös tuon otsikon "enemmän".
 
-###### Fediversumi -reaktiot
-
-[Jaa tämä](https://share.joinmastodon.org/#text=Linnuista%20ja%20v%C3%A4h%C3%A4n%20muustakin%20https%3A%2F%2Fteuvovaisanen.fi%2F2026%2F05%2F20%2Fsata-lintulajia-ja-enemman%2F)

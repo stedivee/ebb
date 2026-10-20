@@ -65,4 +65,3 @@ Ei sama sävy, mutta tämäkin on hyvä. Samalla hankin mustia muovihippuja, joi
 
 Tähän mennessä rahaakin on kulunut jo toista sataa, vaikka itse vene olikin ilmainen. Lähisaariin on jo soudeltu makkaraa paistamaan ja portaaleja haltuun ottamaan. Edessä on taas veneilykesä ;)
 
-###### Fediverse -reaktiot

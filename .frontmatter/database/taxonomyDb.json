@@ -2,12 +2,13 @@
   "taxonomy": {
     "categories": [
       "Tietotekniikka",
-      "Yleiset"
-    ],
+      "Yleiset",
+      "Musiikki",
+      "Linnut"
+],
     "tags": [
       "Eleventy",
       "Blog"
-     
     ]
   }
 }

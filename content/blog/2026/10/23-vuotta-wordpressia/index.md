@@ -28,5 +28,3 @@ Siirrän vanhan sivuston sisällön uuteen Eleventyllä rakennettuun järjestelm
 Kokonaan en WordPressiä jätä, sillä ylläpidettäväkseni jää vielä venekerhomme WP-sivusto. Muista ylläpidettävistä sivustoista olen jo päässyt eroon.
 
 Näkemiin WordPress.
-
-###### Fediversumi -reaktiot

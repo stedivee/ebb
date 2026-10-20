@@ -31,4 +31,3 @@ Päntäriltä matka jatkui kohti Harmajaa. Yli lensi pieni 12 yksilön sepelhanh
 Kaiken kaikkiaan onnistunut purjehdus. Onneksi otin kaukoputken mukaan kiikarien lisäksi.  
 Leppoisa opas Eero Haapanen oli mies paikallaan ja saatiinhan sitä kalakeittoa matkan aikana.
 
-###### Fediversumi -reaktiot

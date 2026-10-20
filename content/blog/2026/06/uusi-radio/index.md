@@ -44,5 +44,3 @@ Eipä tuo paljoa vaatinut asennuksessa, liitos Wi-Fi-verkkoon ja sillä käyttö
 Internet-radiokanavan voi tuon valmiin listauksen lisäksi lisätä manuaalisesti. Radio Helsingin striimi on osoitteessa [https://stream.radiohelsinki.fi/stream](https://stream.radiohelsinki.fi/stream) ja lisäsin sen laitteeseen käsin.
 
 Nyt on pikavalinta ykkösessä striimi valmiina, eikun napin painallus ja kahvin keittoon!
-
-###### Fediversumi -reaktiot

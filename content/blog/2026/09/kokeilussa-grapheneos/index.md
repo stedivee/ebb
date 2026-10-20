@@ -27,5 +27,3 @@ Näin alkuun en laittanut SIM-korttia sisään, vaan puhelin toimii vain Wi-Fiss
 Näin muutaman tunnin leikkimisen jälkeen ei ole paljon kerrottavaa, ehkä huomenna jatkan ja laitan SIMmin sisään. Paljon pitää tutkia vielä rauhassa.
 
 Tutkittavaa tulee tulevalla viikolla lisää, sillä postissa on tulossa [Jolla C2-puhelin](https://teuvovaisanen.fi/2026/09/08/kokeilussa-jolla-c2-sailfishos-puhelin/).
-
-###### Fediversumi -reaktiot

@@ -98,4 +98,3 @@ Suunnilllen noin meni kaksi ensimmäistä päivää Nextcloudin parissa. En tehn
 
 Seuraavaksi sitten uudet haasteet, vanha win 10 -läppäri pitäisi laittaa linukaksi ja siihen Nextcloud. Tekeminen ei lopu eläkeläisnörtiltä :) , ja pitäis vielä musaakin tehdä.
 
-###### Fediverse -reaktiot

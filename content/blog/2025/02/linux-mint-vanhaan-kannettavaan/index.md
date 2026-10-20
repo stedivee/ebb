@@ -57,5 +57,3 @@ Nämä Googlesta irtautumiseen liittyvät kirjoitukset ovat minulle pitkälti p�
 Luulisin että seuraava vaihe minulla on alkaa käydä Google Drivea ja sen sisältöä läpi ja siirtää sieltä järkevät asiat Nextcloudiin. Loput roskiin.
 
 Tarina jatkuu.
-
-###### Fediverse -reaktiot

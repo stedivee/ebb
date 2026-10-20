@@ -56,5 +56,3 @@ Yllä olevassa kuvassa Kari Kilpeläisen (1. vasemmalla) kanssa olen soitellut 2
 Stefan erkanee nyt tästä kokoonpanosta, mutta todennäköistä on, että me loput kolme, Kari, Kaleva ja Teuvo jatkamme soittoa ainakin omaksi iloksemme. Aika näyttää miten, ehkä hissukseen, olemmehan kaikki kolme 70+ vuotiaita, minä kolmikon kuopus.
 
 Minulla on lisäksi soittotouhuja toisella treenikämpällä jamien sekä parin muun kokoonpanon puitteissa, siellä on aktiivisempaa touhua. Ja kotistudio. Soitto ei lopu, se jatkuu ja jatkuu ja jatkuu.
-
-###### Fediversumi -reaktiot

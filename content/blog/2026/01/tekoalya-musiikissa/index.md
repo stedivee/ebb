@@ -56,4 +56,3 @@ Oman kotistudion puuhastelut ovat oma lukunsa, mutta kyllä kappaleet minulla tu
 
 Tekoälyllä kuitenkin tehdään nykyään paljon musiikkia. Ei sitä kehitystä voi perua enää. On jopa kilpailuja, joihin voi osallistua vain tekoälyllä tehdyillä kappaleilla. Aika näyttää mihin tämä kaikki johtaa. Ammattimaisesti musiikin parissa työskentelevät ovat tämän tosiasian kanssa tekemisissä. Toivotaan etteivät työpaikat mene tekoälyn vuoksi ja että ihmisen aivojen luovuus kuuluu jatkossakin musiikissa.
 
-###### Fediverse -reaktiot

@@ -52,5 +52,3 @@ Tämä WordPress oli markkinoille tullessaan hyvä esimerkki Webin kehityksessä
 Siirrynkö nyt siis takaisin perinteiseen Webiin, eli Web 1.0:aan? No, onhan Eleventyssä RSS, joka lasketaan kaiketi 2.0:aan. Ja kommentointikin on siihen rakennettavissa eri keinoin.
 
 Tunteissani on samaan aikaan haikeutta ja innostusta.
-
-###### Fediversumi -reaktiot

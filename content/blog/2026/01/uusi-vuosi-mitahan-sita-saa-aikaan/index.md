@@ -31,5 +31,3 @@ Enempi olisi mukava saada dokumentoitua noita omia renkutuksia. Tälle vuodelle 
 - Jonkinlainen vihkonen / alkeellinen nuottikirja omista biiseistä olisi hieno saada kyhättyä. Nuotinnosohjelma Musescorella muutamat olen jo dokumentoinutkin.
 
 Ehkä sitten tulevana joulukuuna voin tätä kommentoida? Aika näyttää.
-
-###### Fediverse -reaktiot

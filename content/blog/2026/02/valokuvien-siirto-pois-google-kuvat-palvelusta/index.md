@@ -99,5 +99,3 @@ Olen tämän prosessin jälkeen nimennyt tuon Vuosi 2009 kansion pelkästään 2
 Muutama Takeoutilla ladattu ja Fixerillä ja metatiedoilla prosessoitu kuvakansio on jo Nextcloudissa
 
 Tästä on hyvä jatkaa :)
-
-###### Fediverse -reaktiot

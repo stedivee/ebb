@@ -32,4 +32,3 @@ Miksailua ja masterointia. Koko hommaan meni ehkä 12 työtuntia. Eilen lähetin
 
 Kävi kuinka kävi, mutta saatiinpa jotain konkreettista aikaiseksi.
 
-###### Fediverse -reaktiot

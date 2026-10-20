@@ -33,4 +33,3 @@ Varsinaisena uusien ylioppilaiden päivänä kaksi meistä riemuista oli koulull
 
 [Herttoniemen yhteiskoulun verkkosivut.](https://www.heryk.fi/)
 
-###### Fediversumi -reaktiot

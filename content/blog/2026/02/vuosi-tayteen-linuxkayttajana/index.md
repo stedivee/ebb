@@ -18,5 +18,3 @@ Onko mitään harmituksia? Noh, läppärin sormenjälkitunnistin ei toimi, ei ha
 Päivittäiset toimet tietotekniikassa hoituvat siis Linux-kannettavalla ja Android-puhelimella (Linux myös).
 
 Moni pohtii uuden tietokoneen ostamista, kun Windows 10 tuki on loppu/loppumassa. Heille sanoisin, että kokeilkaapa Linuxia siihen vanhaan koneeseen, ei se ole niin ihmeellistä eikä vaikeaa. Säästyy rahaakin.
-
-###### Fediverse -reaktiot

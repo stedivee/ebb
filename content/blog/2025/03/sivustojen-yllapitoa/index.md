@@ -32,4 +32,3 @@ Tämä kunnossapitotyö aiheutti sitten ylläpitovyöryn toiseenkin ylläpitäm�
 Kuinkas ollakaan eräs vanha asiakkaani otti yhteyttä ja pyysi minua päivittämään sivustonsa (2 kpl).  
 Tein hänen sivustoilleen kaikki päivitykset sekä niillekin vastaavat tietoturvatoimenpiteet, siellä myös LiteSpeed -palvelin. Kummankin sivuston skannauksessa löytyi yksi haitallinen tiedosto, jotka samantien poistettiin. En ole niiden sivustojen ylläpitovastuussa, mutta omistaja on arka tekemään itse mitään, joten olen auttanut pyydettäessä. No nyt puhtaat versiot on varmuuskopioitu ja ohjeet varmuuskopiointiin hänelle kirjoitettu. Ehkä se pitää vierihoitona vielä sivustojen omistajalle näyttää.
 
-###### Fediverse -reaktiot

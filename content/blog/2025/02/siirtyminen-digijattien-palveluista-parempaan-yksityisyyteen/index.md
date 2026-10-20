@@ -36,4 +36,3 @@ Nyt viimeisenä isona liikkeenä olen aloittanut poistumisen Googlesta. Don't be
 Eurooppalaisuus on tietotekniikassa omanlaisensa hyve, onhan meillä täällä mm. se GDPR, jota muu maailma tuntuu aktiivisesti hylkivän. Opensource -ohjelmia on paljon olemassa vaihtoehtoina digijättien tuotteille. Myös puhtaasti eurooppalaisia vaihtoehtoja digipalveluille on, ei muuta kuin otetaan käyttöön.  
 [https://european-alternatives.eu/](https://european-alternatives.eu/)
 
-###### Fediverse -reaktiot

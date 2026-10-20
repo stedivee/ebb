@@ -49,4 +49,3 @@ Pixelunionin verkkopalvelussa on kätevä kaksoiskappaleiden tunnistaminen. Olen
 
 Siirryn Google Kuvista pois, se on selvä. Nyt jää ratkaistavaksi käytänkö Nextcloudia vai Pixelunionia vain kenties sitten joskus se oma NAS. Nyt hetken käytettyäni Pixelunionia, olen siihen ainakin näin aluksi tyytyväinen.
 
-###### Fediversumi -reaktiot

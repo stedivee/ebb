@@ -1,8 +1,10 @@
 ---
-title: "Seitsemän on onnennumero, ainakin lauluissa"
+title: Seitsemän on onnennumero, ainakin lauluissa
 date: 2026-04-21
-categories: 
-  - "yleiset"
+categories:
+  - Yleiset
+tags:
+  post
 ---
 
 Seitsemän on onnennumero edesmenneen bändikaverini Sepon biisissä Gambling man. Kiitos Sepi menneistä soittovuosista!
@@ -17,5 +19,3 @@ Päällimmäisenä varmaan kuitenkin perhe. Vaimo ja jälkikasvuna kaksi selväj
 Työurat ensin hotelli- ja ravintolamaailmassa ja sitten tietotekniikassa. Työelämän loppusuoralla vielä freelancerointia. Lintujen tarkkkailuharrastusta melkein 60 vuotta. Bändisoittoa reilut 50 vuotta. Mitähän minusta tulee isona?
 
 Minulla on näin aikuisempana ollut sellainen motto, että mieluummin vanha kuin aikuinen. Kondis on vielä kohtuuhyvä, joten aioin jatkaa samaa rataa, vuosirenkaista huolimatta.
-
-###### Fediversumi -reaktiot

@@ -69,4 +69,3 @@ Kaiken kaikkiaan tutkimusmatka Kuopioon ja sen j√§lkeiset selvittelyt selvensiv√
 
 Kiitos paljon Kuopio!
 
-###### Fediverse -reaktiot

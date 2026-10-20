@@ -24,4 +24,3 @@ Lopulta kun erään bootin yhteydessä tuli virheilmoitus, jossa oli "device err
 Vaimosta tuli nyt Linux-tyttö :) ja uskomattoman hyvin toimii n. 15 vuotta vanha läppäri. 16 sekuntia virtanapista kirjautumissivulle.  
 Minulla on tietokoneilla edelleen sekakäyttöä, kun surffikone on Linux Mint ja musakone on Win 11 & Ableton. Esikoispoikani on perheen Linux-guru, töissään hänellä on ymmärtääkseni pelkkää Linuxia. Nuorimmaiseni työpaikalla ollaan Microsoft-maailmassa.
 
-###### Fediverse -reaktiot

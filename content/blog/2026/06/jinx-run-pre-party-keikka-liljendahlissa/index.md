@@ -141,4 +141,3 @@ Lisätäänpä loppuun vielä soittajat
 
 - Basso - Teuvo "Stedi" Väisänen
 
-###### Fediversumi -reaktiot

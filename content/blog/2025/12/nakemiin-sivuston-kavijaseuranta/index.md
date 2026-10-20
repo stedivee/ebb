@@ -28,4 +28,3 @@ Kovasti on reilun 25 vuoden webbijuttujen kouluttamisen myötä muuttunut suhtau
 
 Siis tervetuloa sivustolle, jossa ei ole kävijäseurantaa. Jos joku kommentoi artikkelia, tiedän että ainakin yksi lukija on käynyt :)
 
-###### Fediverse -reaktiot

@@ -45,5 +45,3 @@ Miten käy tämän sosiaalisen vuorovaikuttamisen sitten, jos onkin staattinen s
 Tämä jää vielä pohdittavaksi. IndieWebin Webmention on ainakin mahdollista toteuttaa Eleventy-sivustoon. Fediversumin kommentointikin on mahdollista, ainakin artkkeleita aiheesta löytyy, esim. [https://hamatti.org/posts/custom-cli-tool-to-link-mastodon-posts-and-blog-posts/](https://hamatti.org/posts/custom-cli-tool-to-link-mastodon-posts-and-blog-posts/)
 
 Toisaalta ehkä ilman kommentoitiakin pärjäisi...
-
-###### Fediversumi -reaktiot

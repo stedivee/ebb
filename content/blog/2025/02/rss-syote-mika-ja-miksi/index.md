@@ -79,4 +79,3 @@ Itse fedikin tarjoaa palveluistaan RSS -syötteen, ainakin Mastodon. Minun Masto
 RSS on vanha mutta elossa oleva tekniikka, itse pidän sitä edelleen todella relevanttina tekniikkana, josta on paljon hyötyä. Suosittelen tutustumaan jos aihe on vieras ennestään.  
 Jos kiinnostuit, niin lue lopuksi vielä vaikkapa Cory Doctorowin artikkeli Mediumista [You should be using an RSS reader](https://doctorow.medium.com/you-should-be-using-an-rss-reader-76aed31151f9)
 
-###### Fediverse -reaktiot

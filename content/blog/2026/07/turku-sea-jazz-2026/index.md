@@ -50,5 +50,3 @@ Toisena esiintyjänä Joyey Calderazzo yhtyeineen.
 **Donald Edwards** – rummut  
 
 Ihan mukavat oli kelit ja musiikki, ehkä taas ensi vuonna uudestaan.
-
-###### Fediversumi -reaktiot

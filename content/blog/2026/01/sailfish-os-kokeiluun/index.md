@@ -38,4 +38,3 @@ Nyt on sähköposti toiminnassa, samoin Nextcloud ja siellä tallessa oleva kale
 
 Tästä alkaa kokeilu, ehkä jossain vaiheessa uskallan laittaa oikean SIMmin sisään ja kokeilla päivittäisessä käytössä ykköspuhelimena.
 
-###### Fediverse -reaktiot
