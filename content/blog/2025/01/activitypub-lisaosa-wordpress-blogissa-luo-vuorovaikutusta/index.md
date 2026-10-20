@@ -28,4 +28,4 @@ Julkaisun jälkeen boostasin blogikirjoitusta ja tykkäsinkin. Näin se näkyy W
 
 Ja tykkäykset näkyvät tässä artikkelin alapuolella. Otsikko Likes on englanniksi, vaikka kaikki lisäosan stringit on 100% käännetty. Tuota sanaa ei ko. lisäosan hallinnoija ole ehkä muistanut tuoda kääntämisen piiriin.
 
-###### Fediverse -reaktiot
+
