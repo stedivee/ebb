@@ -58,6 +58,9 @@ html {
 }
 body {
 	max-width: 50em;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -123,7 +126,9 @@ footer {
 main :first-child {
 	margin-top: 0;
 }
-
+main {
+	flex:1;
+}
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
 }

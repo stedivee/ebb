@@ -1,6 +1,6 @@
 import { DateTime } from "luxon";
 
-export default function(eleventyConfig) {
+export default function (eleventyConfig) {
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
 		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "DDDD");
@@ -10,22 +10,28 @@ export default function(eleventyConfig) {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
 		return DateTime.fromJSDate(dateObj, { locale: "fi" }).toFormat('D');
 	});
-		// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon (dd.MM.yyyy)
+	// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon (dd.MM.yyyy)
 	eleventyConfig.addFilter("suomiPvm", (dateObj) => {
 		return DateTime.fromJSDate(dateObj, { zone: "utc", }).toFormat('dd.MM.yyyy');
 	});
 
-		// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon jossa viikonpäivä mukana (cccc dd.MM.yyyy)
+	// dateObj input: oma filtteri, joka muuttaa artikkelin URLiin päivämäärän suomalaiseen muotoon (yyyy-MM-dd)
+	eleventyConfig.addFilter("suomiPvmURL", (dateObj) => {
+		return DateTime.fromJSDate(dateObj, { zone: "utc", }).toFormat('yyyy-MM-dd');
+	});
+
+
+	// dateObj input: oma filtteri, joka muuttaa päivämäärän suomalaiseen muotoon jossa viikonpäivä mukana (cccc dd.MM.yyyy)
 	eleventyConfig.addFilter("suomiPitka", (dateObj) => {
 		return DateTime.fromJSDate(dateObj, { locale: "fi" }).toFormat('cccc dd.MM.yyyy');
 	});
 
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("head", (array, n) => {
-		if(!Array.isArray(array) || array.length === 0) {
+		if (!Array.isArray(array) || array.length === 0) {
 			return [];
 		}
-		if( n < 0 ) {
+		if (n < 0) {
 			return array.slice(n);
 		}
 
