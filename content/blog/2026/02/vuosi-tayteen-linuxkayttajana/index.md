@@ -2,7 +2,7 @@
 title: "Vuosi täyteen Linuxkäyttäjänä"
 date: 2026-02-23
 categories: 
-  - "linux"
+  - "it"
 tags: 
   - "linux-mint"
 coverImage: "PXL_20260223_085116174.MP_-scaled.jpg"

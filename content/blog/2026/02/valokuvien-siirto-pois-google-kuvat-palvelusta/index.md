@@ -2,7 +2,7 @@
 title: "Valokuvien siirto pois Google Kuvat -palvelusta"
 date: 2026-02-04
 categories: 
-  - "ict"
+  - "it"
 tags: 
   - "google-kuvat"
   - "nextcloud"

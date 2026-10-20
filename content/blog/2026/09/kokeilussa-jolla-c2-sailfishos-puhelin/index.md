@@ -2,7 +2,7 @@
 title: "Kokeilussa Jolla C2 - SailfishOS puhelin"
 date: 2026-09-08
 categories: 
-  - "ict"
+  - "it"
 tags: 
   - "jolla"
   - "sailfish_os"
@@ -27,3 +27,4 @@ Samaan aikaan sattumalta osui toinenkin kännykkäkokeilu, [kun asentelin vanhaa
 
 Saas nähdä kuinka sekaisin sitä menee ;)
 
+###### Fediversumi -reaktiot

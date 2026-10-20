@@ -3,7 +3,6 @@ title: "Lintu- ja hyljesafari purjelaivalla"
 date: 2026-06-07
 categories: 
   - "linnut"
-  - "veneily"
 tags: 
   - "astrid"
   - "linnut"

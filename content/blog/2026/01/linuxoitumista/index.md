@@ -2,8 +2,7 @@
 title: "Linuxoitumista"
 date: 2026-01-05
 categories: 
-  - "ict"
-  - "linux"
+  - "it"
 tags: 
   - "linux"
   - "linux-mint"

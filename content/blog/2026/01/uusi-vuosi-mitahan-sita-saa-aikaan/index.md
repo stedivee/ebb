@@ -3,7 +3,6 @@ title: "Uusi vuosi - mitähän sitä saa aikaan?"
 date: 2026-01-01
 categories: 
   - "musiikki"
-  - "yleiset"
 tags: 
   - "daw"
   - "dawless"

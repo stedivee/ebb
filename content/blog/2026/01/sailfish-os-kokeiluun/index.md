@@ -2,7 +2,7 @@
 title: "Sailfish OS kokeiluun"
 date: 2026-01-22
 categories: 
-  - "linux"
+  - "it"
 tags: 
   - "jolla"
   - "linux-mint"

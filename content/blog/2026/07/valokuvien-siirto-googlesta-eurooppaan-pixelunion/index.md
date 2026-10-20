@@ -2,8 +2,7 @@
 title: "Valokuvien siirto Googlesta Eurooppaan - Pixelunion"
 date: 2026-07-06
 categories: 
-  - "ict"
-  - "yleiset"
+  - "it"
 tags: 
   - "google-kuvat"
   - "nextcloud"

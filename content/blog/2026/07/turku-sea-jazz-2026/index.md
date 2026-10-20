@@ -23,7 +23,7 @@ Soolona kirkossa ollaan aiempina vuosina kuultu mm. Teemu Viinikaista, Panu Savo
 
 https://loops.video/v/hbtqPaRNNd
 
-Torstaina Seilissä lounaan jälkeen oli vuorossa pihakonsertti. Kitaristi Raoul Björkenheimin trio POLYFREE 
+Torstaina Seilissä lounaan jälkeen oli vuorossa pihakonsertti. Kitaristi Raoul Björkenheimin trio POLYFREE
 
 ![Raoul Björkenhein ja yhtye POLYFREE Seilissä](images/Raoul-Bjorkenheim-ja-yhtye-POLYFREE-scaled.jpg "Raoul-Björkenheim-ja-yhtye-POLYFREE") 
 
