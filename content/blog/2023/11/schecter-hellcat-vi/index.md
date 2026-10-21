@@ -24,81 +24,18 @@ Bass VI -tyyppisiä soittimia on tarjolla useammallakin kitaramerkillä , mm. Da
 Päädyin Schecteriin. Suomestahan sitä ei suoraan mistään saanut, mutta Soundtools Helsingin Elimäenkadulla ([https://soundtools.fi/](https://soundtools.fi/)) ystävällisesti minulle sellaisen jenkeistä tilasi. Sain vielä hyvällä ehdolla, sillä ei ostopakkoa, jos koesoiton perusteella en olisikaan tyytyväinen. Todella reilua!  
 No tänään 21.11.2023 olin koesoittamassa sillä seurauksella, että bassokitara on nyt kotona :) Mielenkiintoisia hetkiä edessäpäin.
 
-<figure>
-
-<figure>
 
 ![30" kaulainen basso telineessään](images/Schecter-Hellcat-VI-1-576x1024.jpg)
 
-<figcaption>
-
-30" kaulainen basso telineessään
-
-</figcaption>
-
-</figure>
-
-<figure>
-
 ![Runko, kolme single coil mikkiä, säätimet](images/Schecter-Hellcat-VI-5-576x1024.jpg)
-
-<figcaption>
-
-Runko, kolme single coil mikkiä, säätimet
-
-</figcaption>
-
-</figure>
-
-<figure>
 
 ![Viirityskoneisto kitaran lavassa](images/Schecter-Hellcat-VI-4-576x1024.jpg)
 
-<figcaption>
-
-Viirityskoneisto kitaran lavassa
-
-</figcaption>
-
-</figure>
-
-<figure>
-
 ![Rungon ja kaulan kiinnitys pulteilla, mukava viiste puutyössä tuomassa soittoergonomiaa](images/Schecter-Hellcat-VI-6-576x1024.jpg)
-
-<figcaption>
-
-Rungon ja kaulan kiinnitys pulteilla, mukava viiste puutyössä tuomassa soittoergonomiaa
-
-</figcaption>
-
-</figure>
-
-<figure>
 
 ![Adjustomatic tyyppinen talla](images/Schecter-Hellcat-VI-3-1024x576.jpg)
 
-<figcaption>
-
-Adjustomatic tyyppinen talla
-
-</figcaption>
-
-</figure>
-
-<figure>
-
 ![Kaula ja hyvin kiillotetut nauhat sekä messinkimerkit](images/Schecter-Hellcat-VI-2-576x1024.jpg)
-
-<figcaption>
-
-Kaula ja hyvin kiillotetut nauhat sekä messinkimerkit
-
-</figcaption>
-
-</figure>
-
-</figure>
 
 Nyt minulla on kolme erityyppistä sähköbassoa, normaali 34" nelikielinen, lyhytkaulainen 30" nelikielinen sekä nyt siis 30" kuusikielinen. Kaikille on omat lokosensa minun musiikkimaailmassani.
 
