@@ -40,8 +40,7 @@ Lue lisää Eleventystä: [https://www.11ty.dev/](https://www.11ty.dev/)
 
 ## Mitä tapahtuu tämän sivuston sisällölle?
 
-Mitä teen tämän sivuston sisällölle? Osa sisällöstä on jonninjoutavaa päivitystä, toiset kirjoitukset ovat sisällöllisesti vanhentuneita, osa vielä ihan kuranttia luettavaa. Laitanko kaikki roskiin? SIirränkö sisällön Eleventyyn? Poistanko osan ja säästänkö vain hyvät osat? Tätä pohdin kovasti edelleen.  
-Koko sivusto on toki varmuuskopioitu, ja saan sen helposti uudestaan hyrräämään, jos tarve tulee.
+Mitä teen tämän sivuston sisällölle? Osa sisällöstä on jonninjoutavaa päivitystä, toiset kirjoitukset ovat sisällöllisesti vanhentuneita, osa vielä ihan kuranttia luettavaa. Laitanko kaikki roskiin? Siirränkö sisällön Eleventyyn? Poistanko osan ja säästänkö vain hyvät osat? Tätä pohdin kovasti edelleen. Koko sivusto on toki varmuuskopioitu, ja saan sen helposti uudestaan hyrräämään, jos tarve tulee.
 
 Oma domain säilyy edelleen vanhassa hostingissa Shellitillä, ohjaan sen jatkossa uuteen IP-osoitteeseen. [Shellit.org](https://www.shellit.org/) on hoitanut vuosien saatossa asiat mielestäni mallikkaasti.
 

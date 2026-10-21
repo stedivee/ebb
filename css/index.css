@@ -32,7 +32,7 @@
   --space-xl: clamp(3.375rem, 3.2216rem + 0.6818vw, 3.75rem);
   --space-2xl: clamp(4.5rem, 4.2955rem + 0.9091vw, 5rem);
   --space-3xl: clamp(6.75rem, 6.4432rem + 1.3636vw, 7.5rem);
-
+}
 
 /* Colors */
 /* Light Mode */
@@ -65,6 +65,7 @@
 }
 
 /* Global stylesheet */
+
 * {
 	box-sizing: border-box;
 }
@@ -78,9 +79,9 @@ body {
 	padding: 0;
 	margin: 0 auto;
 	font-family: var(--font-family);
-	font-size: var(--step-0);
-	color: var(--text-color);
-	background-color: var(--background-color);
+	font-size: var(--step--1);
+	color: var(--text);
+	background-color: var(--background);
 }
 html {
 	overflow-y: scroll;
@@ -138,14 +139,14 @@ li {
 }
 
 a[href] {
-	color: var(--text-color-link);
+	color: var(--primary);
 }
 a[href]:visited {
-	color: var(--text-color-link-visited);
+	color: var(--primary);
 }
 a[href]:hover,
 a[href]:active {
-	color: var(--text-color-link-active);
+	color: var(--primary);
 }
 
 main,
@@ -164,8 +165,8 @@ header {
 
 #skip-link {
 	text-decoration: none;
-	background: var(--background-color);
-	color: var(--text-color);
+	background: var(--background);
+	color: var(--text);
 	padding: 0.5rem 1rem;
 	border: 1px solid var(--color-gray-90);
 	border-radius: 2px;
@@ -238,14 +239,17 @@ header {
 }
 .home-link {
 	flex-grow: 1;
-	font-size: 1.8em; /* 16px /16 */
+	font-size: var(--step-3);
 	font-weight: 700;
+	color: var(--text);
 	position: relative;
 	top: -2px;
-
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
+}
+a.home-link:visited {
+	color: var(--text);
 }
 
 /* Nav */
@@ -265,6 +269,13 @@ header {
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
 }
+
+/***** footer *****/
+
+footer {
+	font-size: var(--step--2);
+}
+
 
 /* Posts list */
 .postlist {
@@ -342,5 +353,5 @@ header {
   justify-content: space-between;
   align-items: stretch;
   align-content: stretch;
-  gap: 8px;
+  gap: 8px; 
 }
