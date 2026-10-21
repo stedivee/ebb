@@ -7,6 +7,7 @@
 		<meta name="description" content="{{ description or metadata.description }}">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 		<meta name="color-scheme" content="light dark">
+		<meta name="robots" content="nofollow, noindex">
 
 		{#-
 		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
@@ -56,9 +57,9 @@
 			</heading-anchors>
 		</main>
 
-		<footer style="border-top: 1px dashed gray">
+		<footer>
 			<p style="margin-top: 0">
-				<em>Sivuston rakentamiseen käytettiin entisiä ruosteesta putsattuja taitoja ja uuden oppimisen ilon kyyneliä. <br>Moottorina <a href="https://www.11ty.dev/" target="_blank">{{ eleventy.generator }}</a> ja hostaajana <a href="https://statichost.eu" target="_blank">statichost.eu</a></em>
+				<em>Sivuston rakentamiseen käytettiin vanhoja ruosteesta putsattuja taitoja ja uuden oppimisen ilon kyyneliä. <br>Moottorina <a href="https://www.11ty.dev/" target="_blank">{{ eleventy.generator }}</a> ja hostaajana <a href="https://statichost.eu" target="_blank">statichost.eu</a></em>
 				
 			</p>
 		</footer>

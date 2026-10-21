@@ -109,7 +109,7 @@ img{
   max-width: 100%;
   border-radius: .75rem;
   filter: drop-shadow(0 0 0.75rem rgba(0, 0, 0, 0.25));
-  margin: var(--space-s) 0;
+  margin: var(--space-2xs) 0;
 }
 img[width][height] {
   height: auto;
@@ -152,7 +152,7 @@ a[href]:active {
 
 main,
 footer {
-	padding: 1rem;
+	padding: var(--space-m);
 }
 main :first-child {
 	margin-top: 0;
@@ -171,8 +171,8 @@ header {
 	background: var(--background);
 	color: var(--text);
 	padding: 0.5rem 1rem;
-	border: 1px solid var(--color-gray-90);
-	border-radius: 2px;
+	border: 1px solid var(--secondary);
+	border-radius: 0.25rem;
 }
 
 /* Prevent visually-hidden skip link fom pushing content around when focused */
@@ -187,9 +187,9 @@ header {
 .links-nextprev {
 	display: flex;
 	justify-content: space-between;
-	gap: .5em 1em;
+	gap: .5em .7em;
 	list-style: "";
-	border-top: 1px dashed var(--color-gray-20);
+	border-top: 2px dotted var(--secondary);
 	padding: 1em 0;
 }
 .links-nextprev > * {
@@ -258,12 +258,12 @@ a.home-link:visited {
 /* Nav */
 .nav {
 	display: flex;
-	gap: .5em 1em;
+	gap: .5em .7em;
 	padding: 0;
 	margin: 0;
 	list-style: none;
 	font-weight:700;
-	font-size: var(--step-0);
+	font-size: var(--step--1);
 	
 }
 .nav-item {
@@ -282,6 +282,7 @@ a.home-link:visited {
 
 footer {
 	font-size: var(--step--2);
+	border-top: 2px dotted var(--secondary);
 }
 
 
