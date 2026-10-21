@@ -37,31 +37,31 @@
 /* Colors */
 /* Light Mode */
 :root {
-  --background: #FFF4E8;
-  --surface: #F5E0C4;
-  --primary: #91CFFF;
-  --secondary: #E8C692;
-  --text: #040404;
+  --background: #FFFFFA;
+  --surface: #FFF0DD;
+  --primary: #2196F3;
+  --secondary: #FFDEDD;
+  --text: #160500;
 }
 
 /* Dark Mode - prefers-color-scheme */
 @media (prefers-color-scheme: dark) {
   :root {
-  --background: #131211;
+  --background: #131311;
   --surface: #201e1c;
-  --primary: #6ab7f3;
-  --secondary: #e1b470;
-  --text: #ededed;
+  --primary: #67b0eb;
+  --secondary: #f8bdbb;
+  --text: #f0ecea;
   }
 }
 
 /* Dark Mode - data attribute */
 [data-theme="dark"] {
-  --background: #131211;
+  --background: #131311;
   --surface: #201e1c;
-  --primary: #6ab7f3;
-  --secondary: #e1b470;
-  --text: #ededed;
+  --primary: #67b0eb;
+  --secondary: #f8bdbb;
+  --text: #f0ecea;
 }
 
 /* Global stylesheet */
@@ -158,9 +158,10 @@ main :first-child {
 }
 main {
 	flex:1;
+	padding-top: var(--space-l);
 }
 header {
-	border-bottom: 1px dashed var(--color-gray-20);
+	border-bottom: 2px dotted var(--secondary);
 }
 
 #skip-link {
@@ -235,7 +236,7 @@ header {
 	flex-wrap: wrap;
 	justify-content: space-between;
 	align-items: center;
-	padding: 1em;
+	padding: var(--space-s) 0;
 }
 .home-link {
 	flex-grow: 1;
@@ -243,7 +244,7 @@ header {
 	font-weight: 700;
 	color: var(--text);
 	position: relative;
-	top: -2px;
+	top: -6px;
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
@@ -259,12 +260,17 @@ a.home-link:visited {
 	padding: 0;
 	margin: 0;
 	list-style: none;
+	font-weight:700;
+	font-size: var(--step-0);
+	
 }
 .nav-item {
 	display: inline-block;
+	color: var(--text);
 }
 .nav-item a[href]:not(:hover) {
 	text-decoration: none;
+	color: var(--text);
 }
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
@@ -289,7 +295,7 @@ footer {
 	flex-wrap: wrap;
 	align-items: baseline;
 	counter-increment: start-from -1;
-	margin-bottom: 1em;
+	margin-bottom: var(--space-s);
 }
 .postlist-item:before {
 	display: inline-block;
@@ -302,13 +308,13 @@ footer {
 .postlist-date,
 .postlist-item:before {
 	font-size: 0.8125em; /* 13px /16 */
-	color: var(--color-gray-90);
+	color: var(--text);
 }
 .postlist-date {
 	word-spacing: -0.5px;
 }
 .postlist-link {
-	font-size: 1.1875em; /* 19px /16 */
+	font-size: var(--step-0);
 	font-weight: 700;
 	flex-basis: calc(100% - 1.5rem);
 	padding-left: .25em;
@@ -328,6 +334,10 @@ footer {
 	justify-content: center;
 	text-transform: capitalize;
 	font-style: italic;
+	background-color: var(--surface);
+	padding: 0 var(--space-2xs);
+		border-radius: 0.25em ;
+
 }
 .postlist-item > .post-tag {
 	align-self: center;
@@ -339,7 +349,7 @@ footer {
 	flex-wrap: wrap;
 	gap: .5em;
 	list-style: none;
-	padding: 0;
+	padding: var(--space-xs) 0;
 	margin: 0;
 }
 .post-metadata time {
