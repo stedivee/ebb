@@ -29,7 +29,7 @@ https://nicolas-hoizey.com/feeds/all.xml
             <strong>Tämä on "web feed",</strong> suomenkielelllä paremmin tunnettu nimillä RSS- tai Atom-syöte. <strong>Seuraa sivuston artikkeleita etänä</strong> kopioimalla tämän sivun osoitteen (URL) uutislukijaan. Uutislukija voi olla selainlaajennus, erillinen ohjelma tai verkkopalvelu.
           </p>
           <p class="text-gray">
-            Tutustu <a href="https://aboutfeeds.com">About Feeds</a> -sivustolla lisätietoihin RSS:stä ja lukijaohjelmista. Maksutonta, vakaata internetin perustekniikkaa on tämä ;).
+            Tutustu <a href="https://aboutfeeds.com">About Feeds</a> -sivustolla lisätietoihin RSS:stä ja lukijaohjelmista. Maksutonta, vakaata internetin perustekniikkaa on tämä RSS ja/tai Atom ;).
           </p>
         </nav>
         <div class="container-md px-3 py-3 markdown-body">
