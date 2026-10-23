@@ -1,10 +1,11 @@
 ---
 title: Blogi on kuollut - eläköön blogi
-description: "Vanha WordPress-sivusto lakkasi olemasta, siirryin staattisiin sivuihin"
+description: Vanha WordPress-sivusto lakkasi olemasta, siirryin staattisiin sivuihin
 date: 2026-10-23T11:24:28.971Z
 preview: ""
-draft: true
-tags: []
+draft: false
+tags:
+    - Blog
 categories: []
 ---
 
