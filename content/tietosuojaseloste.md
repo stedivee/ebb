@@ -24,12 +24,12 @@ Kommentointia voi harrastaa Fediversumissa, ei täällä
 
 ### Ilmoitus uusista artikkeleista
 
-Voit seurata uusien artikkelien ilmestymistä RSS -syötteen [https://teuvovaisanen.fi/feed/](https://teuvovaisanen.fi/feed/) avulla RSS-lukijaohjelmassasi (esim. Outlook, Thunderbird -sähköpostiohjelmat tai [Feedly](https://feedly.com/) -verkkopalvelu). Nämä em. seurantatavat eivät aiheuta tietosuojatapahtumia tältä sivustolta.  
-Ilmoitan uusista artikkeleista myös Fediversumissa someprofiilini kautta @stedi@mementomori.social. Voit seurata näitä artikkeli-ilmoituksia Fediversumin eri sovelluksilla, kuten Mastodon, Pixelfed, Akkoma jne.
+Voit seurata uusien artikkelien ilmestymistä RSS -syötteen [https://teuvovaisanen.fi/feed/feed.xml](https://teuvovaisanen.fi/feed/feed.xml) avulla RSS-lukijaohjelmassasi (esim. Outlook, Thunderbird -sähköpostiohjelmat tai [Feedly](https://feedly.com/) -verkkopalvelu). Nämä em. seurantatavat eivät aiheuta tietosuojatapahtumia tältä sivustolta.  
+Ilmoitan silloin tällöin uusista artikkeleista myös Fediversumissa someprofiilini kautta @stedi@mementomori.social. Voit seurata näitä artikkeli-ilmoituksia Fediversumin eri sovelluksilla, kuten Mastodon, Pixelfed, GoToSocial, Akkoma jne.
 
 ### Yhteydenottolomakkeet
 
-Yhteydenottolomake on vasta harkinnassa.
+Yhteydenottolomake on vasta harkinnassa. Ota yhteyttä minuun Fediversumissa tai sähköpostilla (alla).
 
 ### Evästeet
 
@@ -43,11 +43,11 @@ Nämä sivustot voivat kerätä tietoa sinusta, käyttää evästeitä, upottaa 
 
 ### Kävijäseuranta eli Web-analytiikka
 
-Tällä sivustolla ei käytetä enää kävijäseurantaa. Sen käyttö loppui joulukuussa 2025 ja se tapahtui WordPress-järjestelmässä.
+Sivustollani ei enää käytetä kävijäseurantaa. Sen käyttö loppui joulukuussa 2025 ja se tapahtui sivuston ollessa WordPress-järjestelmässä.
 
 ## Kenelle jaan tietosi
 
-Ei jaettava.
+Ei mitään jaettavaa kenellekkään.
 
 ## Kuinka kauan säilytän tietoa
 
@@ -55,12 +55,12 @@ Täällä ei säilötä mitään käyttäjätietoja.
 
 ## Mitä oikeuksia sinulla on omaan tietoosi
 
-En kerää tietoja, joten huolenhdi omista tiedoistasi muilla sivustoilla.
+En kerää tietoja, joten huolehdi omista tiedoistasi muilla sivustoilla internetissä.
 
 ## Minne lähetämme tietosi
 
-Tältä sivustolta ei lähde mitään minnekkään.
+Tältä sivustolta ei lähetetä mitään minnekkään.
 
 ## Yhteystietoni
 
-[Sivuston omistajan yhteystiedot tässä linkissä](https://teuvovaisanen.fi/yhteystiedot/)
+Sähköpostiosoitteeni on "teuvo ät teuvovaisanen piste fi"
