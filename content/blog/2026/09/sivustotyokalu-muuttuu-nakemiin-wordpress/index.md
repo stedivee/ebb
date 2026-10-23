@@ -1,13 +1,14 @@
 ---
-title: "Sivustotyökalu muuttuu - näkemiin WordPress"
+title: Sivustotyökalu muuttuu - näkemiin WordPress
 date: 2026-09-30
-categories: 
-  - "it"
-tags: 
-  - "blogi"
-  - "web"
-  - "wordpress"
-coverImage: "WordPress-logo-300x300-tr.png"
+categories:
+  - it
+tags:
+  - blogi
+  - web
+  - wordpress
+coverImage: WordPress-logo-300x300-tr.png
+draft: false
 ---
 
 Nyt se päätetty. Kotisivujeni moottorina ei enää jatkossa ole WordPress. Siirryn tämän syksyn aikana staattisiin sivuihin. Näin päättyy yli 20 vuoden rupeama ja palaan perus-HTML:n pariin.

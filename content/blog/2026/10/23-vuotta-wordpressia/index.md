@@ -1,12 +1,13 @@
 ---
-title: "23 vuotta WordPressiä"
+title: 23 vuotta WordPressiä
 date: 2026-10-18
-categories: 
-  - "it"
-tags: 
-  - "blogi"
-  - "wordpress"
-coverImage: "WordPress-logo-300x300-tr.png"
+categories:
+  - it
+tags:
+  - blogi
+  - wordpress
+coverImage: WordPress-logo-300x300-tr.png
+draft: false
 ---
 
 TLDR; Olen palaamassa takaisin staattisiin webbisivuihin.
