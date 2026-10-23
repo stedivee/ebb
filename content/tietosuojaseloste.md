@@ -12,7 +12,8 @@ categories: []
 
 ## Kuka olen
 
-Olen Teuvo Väisänen ja verkkosivustoni osoite on: https://teuvovaisanen.fi.
+Olen Teuvo Väisänen ja verkkosivustoni osoite on: https://teuvovaisanen.fi. 
+Käytin tietosuojaselosteessa entisen WordPress-sivustoni pohjaa, tämän sivun versio siitä "hieman" korostaa tätä datan keräämättömyyttä! 
 
 ## Mitä henkilötietoa kerään ja miksi
 

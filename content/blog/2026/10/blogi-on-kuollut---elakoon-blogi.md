@@ -6,7 +6,10 @@ preview: ""
 draft: false
 tags:
     - Blog
-categories: []
+    - Eleventy
+    - 11ty
+categories:
+    - Tietotekniikka
 ---
 
 
@@ -25,6 +28,6 @@ Vaikka valmiit teemat ovat hienoja ja monipuolisia, päädyin kuitenkin aloittam
 - RSS-syöte
 - oma ulkoasun tuottava CSS, yhdistelin resettiä, starteria ja omaa koodia
 
-Sivusto on hostattuna statichost.eu -palveluntarjoajalla, josta olen saanut ystävällistä apua laittaessani kuntoon kokeiluvaiheessa automaattista julkaisua Githubista hostingiin. Sivuston koodi ei kuitenkaan ole Githubissa vaan Codebergissa.
+Sivusto on hostattuna statichost.eu -palveluntarjoajalla, josta olen saanut todella ystävällistä apua laittaessani kuntoon kokeiluvaiheessa automaattista julkaisua Githubista hostingiin. Sivuston koodi ei ehkä kuitenkaan jatkossa ole Githubissa vaan Codebergissa, kunhan saan rauhassa rakenneltua sivustosta seuraavan version..
 
-Nimipalvelinongelmien vuoksi oli nöyrryttävä www-etuliitteeseen. No, onneksi on ohjaus apuna.
+Nimipalvelinongelmien vuoksi oli nöyrryttävä www-etuliitteeseen. No, onneksi on uudelleenohjaus apuna. Ehkä ratkaisen tämän myöhemmin takaisin lyhyeksi osoitteeksi.
