@@ -7,4 +7,4 @@ categories:
 
 Valoa on taas hiukan tarjolla kun saatiin lunta, toivottavasti yli Joulun.
 
-\[caption id="attachment\_1222" align="alignnone" width="320" caption="lyhty pihalla"\][![lyhty pihalla](images/lyhtypihalla.jpg "lyhty pihalla")](https://teuvovaisanen.fi/wp-content/uploads/2004/12/lyhtypihalla.jpg)\[/caption\]
+[![lyhty pihalla](images/lyhtypihalla.jpg "lyhty pihalla")](https://teuvovaisanen.fi/wp-content/uploads/2004/12/lyhtypihalla.jpg)

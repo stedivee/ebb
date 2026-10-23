@@ -1,8 +1,8 @@
 export default {
-	title: "teuvovaisanen.fi",
-	url: "https://teuvovaisanen.fi/",
+	title: "Teuvo aka Stedi",
+	url: "https://www.teuvovaisanen.fi/",
 	language: "fi",
-	description: "Kaikenlaista kaikenlaista ja vielä lisää...",
+	description: "Kaikenlaista eri sorttista ja vielä lisää...",
 	author: {
 		name: "Teuvo Väisänen",
 		email: "youremailaddress@example.com",

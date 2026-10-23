@@ -7,7 +7,7 @@ categories:
 
 Poikani [Tuomas](http://irc-galleria.net/view.php?nick=travel) otti keittiön ikkunasta kuvia uudella kamerallaan, tässä sinitiainen:
 
-\[caption id="attachment\_1231" align="alignnone" width="320" caption="sinitiainen"\][![sinitiainen](images/sinitiainen320x240.jpg "sinitiainen")](https://teuvovaisanen.fi/wp-content/uploads/2005/01/sinitiainen320x240.jpg)\[/caption\]
+[![sinitiainen](images/sinitiainen320x240.jpg "sinitiainen")](https://teuvovaisanen.fi/wp-content/uploads/2005/01/sinitiainen320x240.jpg)
 
 Pihan lajeja tammikuussa:
 
