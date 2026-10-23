@@ -24,7 +24,7 @@ Kommentointia voi harrastaa Fediversumissa, ei täällä
 
 ### Ilmoitus uusista artikkeleista
 
-Voit seurata uusien artikkelien ilmestymistä RSS -syötteen [https://teuvovaisanen.fi/feed/feed.xml](https://teuvovaisanen.fi/feed/feed.xml) avulla RSS-lukijaohjelmassasi (esim. Outlook, Thunderbird -sähköpostiohjelmat tai [Feedly](https://feedly.com/) -verkkopalvelu). Nämä em. seurantatavat eivät aiheuta tietosuojatapahtumia tältä sivustolta.  
+Voit seurata uusien artikkelien ilmestymistä RSS -syötteen [https://www.teuvovaisanen.fi/feed/feed.xml](https://www.teuvovaisanen.fi/feed/feed.xml) avulla RSS-lukijaohjelmassasi (esim. Outlook, Thunderbird -sähköpostiohjelmat tai [Feedly](https://feedly.com/) -verkkopalvelu). Nämä em. seurantatavat eivät aiheuta tietosuojatapahtumia tältä sivustolta.  
 Ilmoitan silloin tällöin uusista artikkeleista myös Fediversumissa someprofiilini kautta @stedi@mementomori.social. Voit seurata näitä artikkeli-ilmoituksia Fediversumin eri sovelluksilla, kuten Mastodon, Pixelfed, GoToSocial, Akkoma jne.
 
 ### Yhteydenottolomakkeet
