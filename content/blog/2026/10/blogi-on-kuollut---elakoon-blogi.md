@@ -5,9 +5,9 @@ date: 2026-10-23T11:24:28.971Z
 preview: ""
 draft: false
 tags:
+    - 11ty
     - Blog
     - Eleventy
-    - 11ty
 categories:
     - Tietotekniikka
 ---
