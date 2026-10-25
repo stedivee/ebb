@@ -127,7 +127,7 @@ Soitot sujuivat pääosin kommelluksitta ja olihan yleisöäkin muutama kymmen, 
     style="border: none; height: 49.6px; min-width: 480px;"
     title="Soitinwidgetti &quot;Little Wing&quot; kuunteluun">
 </iframe>
-"Little Wing" esittäjältä Let's Rumble. 26.6.2026 keikalta Jinx The Ranch
+"Little Wing" esittäjältä Let's Rumble. 26.6.2026 keikalta Jinx The Ranch -maatilalta.
 
 
 
