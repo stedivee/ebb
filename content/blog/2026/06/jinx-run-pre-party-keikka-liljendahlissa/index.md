@@ -111,25 +111,25 @@ Soitot sujuivat pääosin kommelluksitta ja olihan yleisöäkin muutama kymmen, 
 
 Äänitin keikan omalla pikkuruisella Tascamillani miksauspöydän luota. Tämä on luottopeli vuodesta toiseen.
 
-<figure>
 
-<figcaption>
-
+<iframe
+    loading="lazy"
+    src="https://stedi.rocks/foxey-lady/embed/index.html"
+    style="border: none; height: 49.6px; min-width: 480px;"
+    title="Soitinwidgetti &quot;Foxey Lady&quot; kuunteluun">
+</iframe>
 "Foxey Lady" esittäjältä Let's Rumble. 26.6.2026 keikalta Jinx The Ranch -maatilalta.
 
-</figcaption>
 
-</figure>
-
-<figure>
-
-<figcaption>
-
+<iframe
+    loading="lazy"
+    src="https://stedi.rocks/little-wing/embed/index.html"
+    style="border: none; height: 49.6px; min-width: 480px;"
+    title="Soitinwidgetti &quot;Little Wing&quot; kuunteluun">
+</iframe>
 "Little Wing" esittäjältä Let's Rumble. 26.6.2026 keikalta Jinx The Ranch
 
-</figcaption>
 
-</figure>
 
 Lisätäänpä loppuun vielä soittajat
 
