@@ -78,7 +78,7 @@ export default async function(eleventyConfig) {
 			language: "fi",
 			title: "teuvovaisanen.fi",
 			subtitle: "Kaikenlaista kaikenlaista...",
-			base: "https://teuvovaisanen.fi/",
+			base: "https://www.teuvovaisanen.fi/",
 			author: {
 				name: "Teuvo Väisänen"
 			}

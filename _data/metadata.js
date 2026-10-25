@@ -6,6 +6,6 @@ export default {
 	author: {
 		name: "Teuvo Väisänen",
 		email: "teuvo@teuvovaisanen.fi",
-		url: "https://teuvovaisanen.fi/"
+		url: "https://www.teuvovaisanen.fi/"
 	}
 }
