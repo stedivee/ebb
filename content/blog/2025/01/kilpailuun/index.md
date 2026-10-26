@@ -30,5 +30,12 @@ Taustalaulut äänitin kotona AKG C2000B -mikin avustuksella, niin ja lauloin m�
 
 Miksailua ja masterointia. Koko hommaan meni ehkä 12 työtuntia. Eilen lähetin biisin ja oheistiedot kilpailuun. Saas nähdä kuinka käy.
 
-Kävi kuinka kävi, mutta saatiinpa jotain konkreettista aikaiseksi.
+Kävi kuinka kävi, mutta saatiinpa jotain konkreettista aikaiseksi. Alla tuo äänite.
 
+<iframe
+    loading="lazy"
+    src="https://stedi.rocks/savages/embed/index.html"
+    style="border: none; height: 49.6px; min-width: 480px;"
+    title="Soitinwidgetti &quot;Savages&quot; kuunteluun">
+</iframe>
+Savages - säv. ja sanat Kari Kilpeläinen
