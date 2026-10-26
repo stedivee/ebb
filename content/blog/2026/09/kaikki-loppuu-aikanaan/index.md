@@ -1,10 +1,10 @@
 ---
-title: "Kaikki loppuu aikanaan"
+title: Kaikki loppuu aikanaan, bändikin
 date: 2026-09-23
-categories: 
-  - "musiikki"
-tags: 
-  - "bandi"
+categories:
+  - musiikki
+tags:
+  - bandi
 ---
 
 TLDR; Bändi lakkasi olemasta, soitto sen kuin vaan jatkuu.
@@ -29,15 +29,16 @@ Kirjoittelinkin aiemmin studiotouhuista blogiin.
 
 Studion lisäksi minä muutamaan otteeseen äänittelin omilla laitteillani biisejä ja osallistuttiin kerran mun äänityksellä [Syksyn Synkin Sävel -kisaan](https://teuvovaisanen.fi/2025/01/17/kilpailuun/).
 
-<figure>
 
-<figcaption>
+<iframe
+    loading="lazy"
+    src="https://stedi.rocks/savages/embed/index.html"
+    style="border: none; height: 49.6px; min-width: 480px;"
+    title="Soitinwidgetti &quot;Savages&quot; kuunteluun">
+</iframe>
+Stedin äänitys ja miksaus Kari Kilpeläisen kappaleesta Savages.
 
-Teuvon äänitys ja miksaus Kari Kilpeläisen kappaleesta Savages.
 
-</figcaption>
-
-</figure>
 
 Muutama keikkakin tuli tehtyä ja silloin tällöin käytyä open stage -paikoissa heittämässä biisejä. Helsingin Käpygrillin open stagella pääasiassa.
 
