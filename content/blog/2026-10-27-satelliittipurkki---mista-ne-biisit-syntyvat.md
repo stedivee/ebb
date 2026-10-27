@@ -3,7 +3,7 @@ title: Satelliittipurkki - mistä ne biisit syntyvät?
 description: ""
 date: 2026-10-27T14:06:41.462Z
 preview: ""
-draft: true
+draft: false
 tags:
     - Musiikki
     - Biisit
@@ -22,6 +22,6 @@ Siinä selviä faktoja elämästä, jotka poimin lauluun johon sekoitin sitten s
 
 Tämä olikin sitten ensimmäinen omassa kotistudiossa toteuttamani moniraitaäänitys. Aiemmin oli vain kerralla sisään mono- ja stereo-äänityksiä. Ohjelma oli Cakewalk Guitar Tracks Pro, minulle tuo Cakewalk oli ennestään tuttu MIDI-jutuista. Ajan saatossa siirryin käyttämään Ableton Studio-ohjelmistoa, joka onkin ollut luottotyökaluni jo monta vuotta.
 
-Olen kai menettänyt itsesuojeluvaistoni tai ainakin itsekritiikkini, kun olen uskaltautunut nyt julkaisemaan vanhoja ja uudempiakin biisejä, joiden kanssa on tullut harrasteltua. Perustin oman Faircamp-sivuston, jonne olen lataillut muutamia kappaleita kuunneltavaksi. Sieltä satelliittipurkkikin löytyy.
+Olen kai menettänyt itsesuojeluvaistoni tai ainakin itsekritiikkini, kun olen uskaltautunut nyt julkaisemaan vanhoja ja uudempiakin biisejä, joiden kanssa on tullut harrasteltua. Perustin oman Faircamp-sivuston, jonne olen lataillut muutamia kappaleita kuunneltavaksi. Sieltä satelliittipurkkikin löytyy. 
 
 <a href="https://stedi.rocks" target="_blank">Stedi.Rocks</a>
