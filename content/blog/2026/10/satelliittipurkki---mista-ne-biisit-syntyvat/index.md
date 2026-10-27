@@ -26,3 +26,7 @@ Tämä olikin sitten ensimmäinen omassa kotistudiossa toteuttamani moniraitaä�
 Olen kai menettänyt itsesuojeluvaistoni tai ainakin itsekritiikkini, kun olen uskaltautunut nyt julkaisemaan vanhoja ja uudempiakin biisejä, joiden kanssa on tullut harrasteltua. Perustin oman <a href="https://stedi.rocks" target="_blank">Faircamp-sivuston</a>, jonne olen lataillut muutamia kappaleita kuunneltavaksi. Sieltä satelliittipurkkikin löytyy. 
 
 <a href="https://stedi.rocks" target="_blank">Stedi.Rocks</a>
+
+Alla vanha muistilappu biisistä.
+
+<img src="images/Satelliittipurkki-rakenne-scaled.jpg" alt="Satelliittipurkki-biisin sanat ja soinnut sekä rakenne" >
