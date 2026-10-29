@@ -29,4 +29,4 @@ Olen kai menettänyt itsesuojeluvaistoni tai ainakin itsekritiikkini, kun olen u
 
 Alla vanha muistilappu biisistä.
 
-<img src="images/Satelliittipurkki-rakenne-scaled.jpg" alt="Satelliittipurkki-biisin sanat ja soinnut sekä rakenne" >
+<img src="images/Satelliittipurkki-rakenne.jpg" alt="Satelliittipurkki-biisin sanat ja soinnut sekä rakenne" >
