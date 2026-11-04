@@ -11,7 +11,8 @@ eleventyNavigation:
     order: 4
 ---
 # Tietoja #
-<img src="https://stedis.cloud/img/Teuvo-raameissa.jpg" alt="Teuvo raameissa" title="Teuvo taulun raameissa">
+
+![Teuvo raameissa](/public/img/Teuvo-raameissa.jpg)
 
 Hei, olen Teuvo Väisänen. 
 
